@@ -15,9 +15,9 @@ imageL_array = [
 
 imageR_array = [
     'a.jpg', 'b.jpg','c.jpg','d.jpg','e.jpg', 'f.jpg',
-    'g.jpg','h.jpg','i.jpg', 'j.jpg','k.jpg','l.jpg',
-    'm.jpg', 'n.jpg','o.jpg','p.jpg','q.jpg', 'r.jpg',
-    's.jpg','t.jpg','u.jpg','v.jpg','w.jpg','x.jpg'
+    'g.jpg','h.jpg','i.jpg', 'j.jpg','k.jpg','l.JPG',
+    'm.JPG', 'n.JPG','o.JPG','p.JPG','q.JPG', 'r.JPG',
+    's.JPG','t.JPG','u.jpg','v.jpg','w.jpg','x.jpg'
 ]
 
 const moveCursor = (e)=> {
