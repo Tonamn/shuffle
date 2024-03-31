@@ -9,8 +9,8 @@ imageL_array = [
     '31.jpg','32.jpg','33.jpg','34.jpg','35.jpg',
     '36.jpg', '37.jpg', '38.jpg', '39.jpg','40.jpg',
     '41.jpg','42.jpg','43.jpg','44.jpg','45.jpg',
-    '46.jpg', '47.jpg', '48.jpg', '49.jpg','50.jpg',
-    '51.jpg'
+    '46.jpg', '47.JPG', '48.JPG', '49.JPG','50.JPG',
+    '51.JPG'
 ]
 
 imageR_array = [
