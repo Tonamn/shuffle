@@ -8,13 +8,13 @@ body{
 
   .rounded{
     font-size: 30px;
-    font-family: PP Agrandir;
+    font-family: helvetica neue;
     color: #000000;
   }
 
   #imageLnum{
     font-size: 80px;
-    font-family: PP Agrandir;
+    font-family: helvetica neue;
     position: fixed;
     width: 600px;
     height: 200px;
@@ -24,7 +24,7 @@ body{
 
   #imageRnum{
     font-size: 80px;
-    font-family: PP Agrandir;
+    font-family: helvetica neue;
     position: fixed;
     width: 600px;
     height: 200px;
